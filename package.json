@@ -1,0 +1,19 @@
+{
+  "name": "projet-alpha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FazilSog/nodeFirstApi.git"
+  },
+  "author": "Fazil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FazilSog/nodeFirstApi/issues"
+  },
+  "homepage": "https://github.com/FazilSog/nodeFirstApi#readme"
+}
